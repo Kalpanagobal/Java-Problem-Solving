@@ -9,7 +9,6 @@ class Solution {
                 maxDiff = nums[i] - nums[i - 1];
             }
         }
-
         return maxDiff;
     }
 }
